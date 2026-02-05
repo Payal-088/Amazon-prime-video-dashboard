@@ -1,6 +1,6 @@
 # Amazon-prime-video-dashboard
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c1fc5845-7dac-413f-a569-484336cdfb50" />
-# Prime Video Content Analysis Dashboard
+
 
 ## Overview
 This project focuses on analyzing the Prime Video content library using Tableau to identify trends in content distribution, genre popularity, audience ratings, release patterns, and geographical availability. The objective is to provide data-driven insights that support strategic decision-making related to content acquisition, production, and audience targeting.
@@ -81,7 +81,6 @@ This project demonstrates the effective use of data visualization techniques to 
 
 ---
 
-## Author
-**Payal Patil**
+
 
 
